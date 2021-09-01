@@ -1,0 +1,22 @@
+{
+  "name": "@srikanthchebrolu/hello-world-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrikanthChebrolu/hello-world-npm-package.git"
+  },
+  "author": "Srikanth Chebrolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrikanthChebrolu/hello-world-npm-package/issues"
+  },
+  "homepage": "https://github.com/SrikanthChebrolu/hello-world-npm-package#readme",
+  "publishConfig": {
+    "@SrikanthChebrolu:registry": "https://npm.pkg.github.com"
+  }
+}
