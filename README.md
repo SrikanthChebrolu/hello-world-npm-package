@@ -1,1 +1,1 @@
-# hello-world-npm-package-
+# hello-world-npm-package
